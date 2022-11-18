@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">GroupProject</string>
+    <string-array name="type">
+        <item>Technical</item>
+        <item>Manual Labor</item>
+    </string-array>
+    <string name="employee_homepage">Employee Homepage</string>
+    <string name="employer_homepage">Employer Homepage</string>
+    <string name="sign_out1">Sign Out</string>
+    <string name="sign_out2">Sign Out</string>
+    <string name="quick_cash">Quick Cash</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="employer">Employer</string>
+    <string name="employee">Employee</string>
+    <string name="EMPTY_USER_NAME">Empty user name</string>
+    <string name="EMPTY_STRING" />
+    <string name="NON_ALPHA_NUMERIC_USER_NAME">Non-Alphanumeric user name</string>
+    <string name="INVALID_EMAIL_ADDRESS">Invalid Email Address</string>
+    <string name="EMPTY_FIRST_Name">Empty First Name!</string>
+    <string name="EMPTY_Last_Name">Empty Last Name!</string>
+    <string name="EMPTY_Password">Empty Password!</string>
+    <string name="EMPTY_Confirm_Password">Empty confirm Password</string>
+    <string name="Password_MissMatch">Passwords do not match</string>
+    <string name="Invalid_Password">Invalid Password, enter alphanumeric value please</string>
+    <string name="USER_NAME_REPEATED">USER NAME ALREADY IN USE</string>
+    <string name="title_activity_homepage">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Employer</string>
+    <string name="title_notifications">User</string>
+    <string name="Empty_Job_Name">Empty job name</string>
+    <string name="Empty_Desc">Please enter a description</string>
+    <string name="invalid_desc">maximum 25 charaters</string>
+    <string name="Empty_Company_Name">please enter Company name</string>
+    <string name="Empty_Positions">Enter number of applications</string>
+    <string name="job_location">Job Location</string>
+    <string name="number">Number</string>
+    <string name="points">Points</string>
+    <string name="job_type">Job Type</string>
+    <string name="job_status">Job status</string>
+    <string name="start_date">Start Date</string>
+    <string name="poster">Poster</string>
+    <string name="job_description">Job Description</string>
+    <string name="take_the_job">Take the Job</string>
+    <string name="back_to_jobs">Back to Jobs</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Longitude">Enter Valid Longitude value</string>
+    <string name="Latitude">enter a valid latitude number</string>
+    <string name="Empty_Ratings">enter rating points for job</string>
+</resources>
